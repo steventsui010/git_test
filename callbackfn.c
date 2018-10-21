@@ -8,4 +8,10 @@ void send_email(char *content, char *subject, char *dest_address);
 void send_txtmsg(char *content, char *subject, char *dest_address);
 
 void exception_notify(, void (*)(char *, char *, char *), );
-//add for test to merge
+
+
+int main() 
+{
+	
+
+
